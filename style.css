@@ -144,7 +144,7 @@ body{
   align-items: center;
   font-size:4vw;
   margin: 4vw;
-  border: 2px solid var(--neutral-200);
+  border: 1px solid var(--neutral-200);
 }
 .scard h2{
   font-size: 5vw;
